@@ -4,11 +4,11 @@ In this project, I have developed CRUD APIs for two database tabled "book" and "
 To run the APIs clone the project,
 Go to project folder
 run 
-'''
+```
 pip install -r requirements.txt
 python3 manage.py migrate
 python3 manage.py runserver
-'''
+```
 
 Your project is now running on http://localhost:8000/
 
