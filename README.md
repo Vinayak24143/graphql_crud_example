@@ -2,8 +2,10 @@
 In this project, I have developed CRUD APIs for two database tabled "book" and "writer".
 
 To run the APIs clone the project,
+
 Go to project folder
-run 
+
+Then run these commands
 ```
 pip install -r requirements.txt
 python3 manage.py migrate
